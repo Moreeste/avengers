@@ -1,3 +1,4 @@
 # Misiones
 
-*Investigar al dr. doom
+* Investigar al Dr. Doom
+* Capturar a Read Skull
